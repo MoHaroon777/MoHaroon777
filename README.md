@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently learning machine Learning mainly from Kaggle
-- 🌱 I’m currently 
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently working on django based portfolio website
+- 👯 I’m looking to collaborate on anything python based
 - 📫 How to reach me: moharoon777@outlook.com
 - ⚡ Fun fact: I have a background of Electronic Engineering
 <!--
